@@ -1,0 +1,1 @@
+# mat_stocks_spatial_indicators
